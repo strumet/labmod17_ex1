@@ -3,3 +3,4 @@ archive/*
 *.orig
 *.bak
 .DS_Store
+*.md
