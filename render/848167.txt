@@ -1,0 +1,7 @@
+Creare un cilindro di altezza 10cm e raggio 3,75cm;
+creare un torus di raggio 2,75 cm e posizionarlo sulla superficie del cilindro;
+selezionare la base del cilindro (in modalità edges)e con il comando scale ingrandirla per creare la base della zuccheriera;
+procedere con la modellazione del coperchio sempre utilizzando sia modalità facets che edges;
+creare una sfera e con il comando emisphere privarla della base (valore da inserire:0,8). Posizionarla in cima al coperchio;
+selezionare i vari oggetti e unirli con il comando attach;
+eseguire turbosmooth.
